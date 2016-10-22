@@ -1,52 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- A.6.9       310 UNICODE 6.0 -->
-<root>
-    <Plane number="00">
+<collection number="310" name="UNICODE 6.0">
+    <plane number="00">
         <row number="00">20-7E A0-FF</row>
         <range row="01-02">0100-02FF</range>
         <row number="03">00-77 7A-7E 84-8A 8C 8E-A1 A3-FF</row>
         <row number="04">00-FF</row>
-        <row number="05">00-27 31-56 59-5F 61-87 89-8A 91-C7 D0-EA F0-F4</row>
+        <row number="05">00-27 31-56 59-5F 61-87 89-8A 91-C7 D0-EA
+        F0-F4</row>
         <row number="06">00-03 06-1B 1E-FF</row>
         <row number="07">00-0D 0F-4A 4D-B1 C0-FA</row>
         <row number="08">00-2D 30-3E 40-5B 5E</row>
-        <row number="09">00-77 79-7F 81-83 85-8C 8F-90 93-A8 AA-B0 B2</row>
-        <row number="09">B6-B9 BC-C4 C7-C8 CB-CE D7 DC-DD DF-E3 E6-FB</row>
-        <row number="0A">01-03 05-0A 0F-10 13-28 2A-30 32-33 35-36 38-39</row>
-        <row number="0A">3C 3E-42 47-48 4B-4D 51 59-5C 5E 66-75 81-83</row>
-        <row number="0A">85-8D 8F-91 93-A8 AA-B0 B2-B3 B5-B9 BC-C5 C7-C9</row>
-        <row number="0A">CB-CD D0 E0-E3 E6-EF F1</row>
-        <row number="0B">01-03 05-0C 0F-10 13-28 2A-30 32-33 35-39 3C-44</row>
-        <row number="0B">47-48 4B-4D 56-57 5C-5D 5F-63 66-77 82-83 85-8A</row>
-        <row number="0B">8E-90 92-95 99-9A 9C 9E-9F A3-A4 A8-AA AE-B9</row>
-        <row number="0B">BE-C2 C6-C8 CA-CD D0 D7 E6-FA</row>
-        <row number="0C">01-03 05-0C 0E-10 12-28 2A-33 35-39 3D-44 46-48</row>
-        <row number="0C">4A-4D 55-56 58-59 60-63 66-6F 78-7F 82-83 85-8C</row>
-        <row number="0C">8E-90 92-A8 AA-B3 B5-B9 BC-C4 C6-C8 CA-CD D5-D6</row>
-        <row number="0C">DE E0-E3 E6-EF F1-F2</row>
-        <row number="0D">02-03 05-0C 0E-10 12-3A 3D-44 46-48 4A-4E 57</row>
-        <row number="0D">60-63 66-75 79-7F 82-83 85-96 9A-B1 B3-BB BD</row>
-        <row number="0D">C0-C6 CA CF-D4 D6 D8-DF F2-F4</row>
-        <row number="0E">01-3A 3F-5B 81-82 84 87-88 8A 8D 94-97 99-9F</row>
-        <row number="0E">A1-A3 A5 A7 AA-A8 AD-B9 BB-BD C0-C4 C6 C8-CD D0-D9 DC-DD</row>
+        <row number="09">00-77 79-7F 81-83 85-8C 8F-90 93-A8 AA-B0
+            B2 B6-B9 BC-C4 C7-C8 CB-CE D7 DC-DD DF-E3 E6-FB</row>
+        <row number="0A">01-03 05-0A 0F-10 13-28 2A-30 32-33 35-36
+            38-39 3C 3E-42 47-48 4B-4D 51 59-5C 5E 66-75 81-83
+            85-8D 8F-91 93-A8 AA-B0 B2-B3 B5-B9 BC-C5 C7-C9 CB-CD
+            D0 E0-E3 E6-EF F1</row>
+        <row number="0B">01-03 05-0C 0F-10 13-28 2A-30 32-33 35-39
+            3C-44 47-48 4B-4D 56-57 5C-5D 5F-63 66-77 82-83 85-8A
+            8E-90 92-95 99-9A 9C 9E-9F A3-A4 A8-AA AE-B9 BE-C2
+            C6-C8 CA-CD D0 D7 E6-FA</row>
+        <row number="0C">01-03 05-0C 0E-10 12-28 2A-33 35-39 3D-44
+            46-48 4A-4D 55-56 58-59 60-63 66-6F 78-7F 82-83 85-8C
+            8E-90 92-A8 AA-B3 B5-B9 BC-C4 C6-C8 CA-CD D5-D6 DE
+            E0-E3 E6-EF F1-F2</row>
+        <row number="0D">02-03 05-0C 0E-10 12-3A 3D-44 46-48 4A-4E
+            57 60-63 66-75 79-7F 82-83 85-96 9A-B1 B3-BB BD C0-C6
+            CA CF-D4 D6 D8-DF F2-F4</row>
+        <row number="0E">01-3A 3F-5B 81-82 84 87-88 8A 8D 94-97
+            99-9F A1-A3 A5 A7 AA-A8 AD-B9 BB-BD C0-C4 C6 C8-CD
+            D0-D9 DC-DD</row>
         <row number="0F">00-47 49-6C 71-97 99-BC BE-CC CE-DA</row>
         <row number="10">00-C5 D0-FC</row>
         <row number="11">00-FF</row>
-        <row number="12">00-48 4A-4D 50-56 58 5A-5D 60-88 8A-8D 90-B0</row>
-        <row number="12">B2-B5 B8-BE C0 C2-C5 C8-D6 D8-FF</row>
+        <row number="12">00-48 4A-4D 50-56 58 5A-5D 60-88 8A-8D
+            90-B0 B2-B5 B8-BE C0 C2-C5 C8-D6 D8-FF</row>
         <row number="13">00-10 12-15 18-5A 5D-7C 80-99 A0-F4</row>
         <range row="14-15">1400-15FF</range>
         <row number="16">00-9C A0-F0</row>
-        <row number="17">00-0C 0E-14 20-36 40-53 60-6C 6E-70 72-73 80-DD E0-E9 F0-F9</row>
+        <row number="17">00-0C 0E-14 20-36 40-53 60-6C 6E-70 72-73
+        80-DD E0-E9 F0-F9</row>
         <row number="18">00-0E 10-19 20-77 80-AA B0-F5</row>
-        <row number="19">00-1C 20-2B 30-3B 40 44-6D 70-74 80-AB B0-C9 D0-DA DE-FF</row>
+        <row number="19">00-1C 20-2B 30-3B 40 44-6D 70-74 80-AB
+        B0-C9 D0-DA DE-FF</row>
         <row number="1A">00-1B 1E-5E 60-7C 7F-89 90-99 A0-AD</row>
         <row number="1B">00-4B 50-7C 80-AA AE-B9 C0-F3 FC-FF</row>
         <row number="1C">00-37 3B-49 4D-7F D0-F2</row>
         <row number="1D">00-E6 FC-FF</row>
         <row number="1E">00-FF</row>
-        <row number="1F">00-15 18-1D 20-45 48-4D 50-57 59 5B 5D 5F-7D</row>
-        <row number="1F">80-B4 B6-C4 C6-D3 D6-DB DD-EF F2-F4 F6-FE</row>
+        <row number="1F">00-15 18-1D 20-45 48-4D 50-57 59 5B 5D
+            5F-7D 80-B4 B6-C4 C6-D3 D6-DB DD-EF F2-F4 F6-FE</row>
         <row number="20">00-64 6A-71 74-8E 90-9C A0-B9 D0-F0</row>
         <row number="21">00-89 90-FF</row>
         <row number="22">00-FF</row>
@@ -58,8 +61,8 @@
         <range row="28-2A">2800-2AFF</range>
         <row number="2B">00-4C 50-59</row>
         <row number="2C">00-2E 30-5E 60-7F 80-F1 F9-FF</row>
-        <row number="2D">00-25 30-65 6F-70 7F-96 A0-A6 A8-AE</row>
-        <row number="2D">B0-B6 B8-BE C0-C6 C8-CE D0-D6 D8-DE E0-FF</row>
+        <row number="2D">00-25 30-65 6F-70 7F-96 A0-A6 A8-AE B0-B6
+            B8-BE C0-C6 C8-CE D0-D6 D8-DE E0-FF</row>
         <row number="2E">00-31 80-99 9B-F3</row>
         <row number="2F">00-D5 F0-FB</row>
         <row number="30">00-3F 41-96 99-FF</row>
@@ -77,27 +80,33 @@
         <row number="A8">00-2B 30-39 40-77 80-C4 CE-D9 E0-FB</row>
         <row number="A9">00-53 5F-7C 80-CD CF-D9 DE-DF</row>
         <row number="AA">00-36 40-4D 50-59 5C-7B 80-C2 DB-DF</row>
-        <row number="AB">01-06 09-0E 11-16 20-26 28-2E C0-ED F0-F9</row>
+        <row number="AB">01-06 09-0E 11-16 20-26 28-2E C0-ED
+        F0-F9</row>
         <range row="AC-D6">AC00-D6FF</range>
         <row number="D7">00-A3 B0-C6 CB-FB</row>
         <range row="E0-F8">E000-F8FF</range>
         <row number="F9">00-FF</row>
         <row number="FA">00-2D 30-6D 70-D9</row>
-        <row number="FB">00-06 13-17 1D-36 38-3C 3E 40-41 43-44 46-C1 D3-FF</row>
+        <row number="FB">00-06 13-17 1D-36 38-3C 3E 40-41 43-44
+        46-C1 D3-FF</row>
         <row number="FC">00-FF</row>
         <row number="FD">00-3F 50-8F 92-C7 F0-FD</row>
-        <row number="FE">00-19 20-26 30-52 54-66 68-6B 70-74 76-FC FF</row>
-        <row number="FF">01-BE C2-C7 CA-CF D2-D7 DA-DC E0-E6 E8-EE F9-FD</row>
-    </Plane>
-    <Plane number="01">
-        <row number="00">00-0B 0D-26 28-3A 3C-3D 3F-4D 50-5D 80-FA</row>
+        <row number="FE">00-19 20-26 30-52 54-66 68-6B 70-74 76-FC
+        FF</row>
+        <row number="FF">01-BE C2-C7 CA-CF D2-D7 DA-DC E0-E6 E8-EE
+        F9-FD</row>
+    </plane>
+    <plane number="01">
+        <row number="00">00-0B 0D-26 28-3A 3C-3D 3F-4D 50-5D
+        80-FA</row>
         <row number="01">00-02 07-33 37-8A 90-9B D0-FD</row>
         <row number="02">80-9C A0-D0</row>
         <row number="03">00-1E 20-23 30-4A 80-9D 9F-C3 C8-D5</row>
         <row number="04">00-9D A0-A9</row>
         <row number="08">00-05 08 0A-35 37-38 3C 3F-55 57-5F</row>
         <row number="09">00-1B 1F-39 3F</row>
-        <row number="0A">00-03 05-06 0C-13 15-17 19-33 38-3A 3F-47 50-58 60-7F</row>
+        <row number="0A">00-03 05-06 0C-13 15-17 19-33 38-3A 3F-47
+        50-58 60-7F</row>
         <row number="0B">00-35 39-55 58-72 78-7F</row>
         <row number="0C">00-48</row>
         <row number="0E">60-7E</row>
@@ -111,38 +120,40 @@
         <row number="D0">00-F5</row>
         <row number="D1">00-26 29-DD D2 00-45</row>
         <row number="D3">00-56 60-71</row>
-        <row number="D4">00-54 56-9C 9E-9F A2 A5-A6 A9-AC AE-B9 BB BD-C3 C5-FF</row>
-        <row number="D5">00-05 07-0A 0D-14 16-1C 1E-39 3B-3E 40-44 46 4A-50 52-FF</row>
+        <row number="D4">00-54 56-9C 9E-9F A2 A5-A6 A9-AC AE-B9 BB
+        BD-C3 C5-FF</row>
+        <row number="D5">00-05 07-0A 0D-14 16-1C 1E-39 3B-3E 40-44
+        46 4A-50 52-FF</row>
         <row number="D6">00-A5 A8-FF</row>
         <row number="D7">00-CB CE-FF</row>
         <row number="F0">00-2B 30-93 A0-AE B1-BE C1-CF D1-DF</row>
         <row number="F1">00-0A 10-2E 30-69 70-8E 90-9A E6-FF</row>
         <row number="F2">00-02 10-3A 40-48 50-51</row>
-        <row number="F3">00-20 30-35 37-7C 80-93 A0-C4 C6-CA E0-F0</row>
+        <row number="F3">00-20 30-35 37-7C 80-93 A0-C4 C6-CA
+        E0-F0</row>
         <row number="F4">00-3E 40 42-F7 F9-FC</row>
         <row number="F5">00-3D 50-67 FB-FF</row>
-        <row number="F6">01-10 12-14 16 18 1A 1C-1E 20-25</row>
-        <row number="F6">28-2B 2D 30-33 35-40 45-4F 80-C5</row>
+        <row number="F6">01-10 12-14 16 18 1A 1C-1E 20-25 28-2B 2D
+        30-33 35-40 45-4F 80-C5</row>
         <row number="F7">00-73</row>
-    </Plane>
-    <Plane number="02">
+    </plane>
+    <plane number="02">
         <range row="00-A6">0000-A6D6</range>
         <range range="A7-B6">A700-B6FF</range>
         <row number="B7">00-34 40-FF</row>
         <row number="B8">00-1D</row>
         <range row="F8-FA">F800-FA1D</range>
-    </Plane>
+    </plane>
 
-    <Plane number="0E">
+    <plane number="0E">
         <row number="00">01 20-7F</row>
         <row number="01">00-EF</row>
-    </Plane>
+    </plane>
 
-
-    <Plane number="0F">
+    <plane number="0F">
         <range row="00-FF">0000-FFFD</range>
-    </Plane>
-    <Plane number="10">
+    </plane>
+    <plane number="10">
         <range rowNnumber="00-FF">0000-FFFD</range>
-    </Plane>
-</root>
+    </plane>
+</collection>
