@@ -154,6 +154,6 @@
         <range row="00-FF">0000-FFFD</range>
     </plane>
     <plane number="10">
-        <range rowNnumber="00-FF">0000-FFFD</range>
+        <range row="00-FF">0000-FFFD</range>
     </plane>
 </collection>
