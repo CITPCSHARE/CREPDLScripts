@@ -1,4 +1,4 @@
-<union xmlns="http://purl.oclc.org/dsdl/crepdl/ns/structure/2.0 mode="character"">
+<union xmlns="http://purl.oclc.org/dsdl/crepdl/ns/structure/2.0" mode="character">
   <char>\p{IsBasicLatin}</char>
   <char>[&#xA0;-&#xA3;]</char>
   <char>&#xA5;</char>
@@ -8,7 +8,7 @@
   <char>[&#xB9;-&#xBB;]</char>
   <char>[&#xBF;-&#xFF;]</char>
   <char>[&#x152;-&#x153;]</char>
-  <char>[&#x2.0 mode="character";-&#x161;]</char>
+  <char>[&#x160;-&#x161;]</char>
   <char>&#x178;</char>
   <char>[&#x17D;-&#x17E;]</char>
   <char>&#x20AC;</char>

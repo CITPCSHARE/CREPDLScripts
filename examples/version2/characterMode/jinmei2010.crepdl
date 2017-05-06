@@ -1,4 +1,4 @@
-<union xmlns="http://purl.oclc.org/dsdl/crepdl/ns/structure/2.0 mode="character"">
+<union xmlns="http://purl.oclc.org/dsdl/crepdl/ns/structure/2.0" mode="character">
   <!-- 別表第二　漢字の表（第六十条関係）-->
   <!--一-->
   <char>[丑丞乃之乎也云亘亙些]</char>

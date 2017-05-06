@@ -1,4 +1,4 @@
-<union xmlns="http://purl.oclc.org/dsdl/crepdl/ns/structure/2.0 mode="character"">
+<union xmlns="http://purl.oclc.org/dsdl/crepdl/ns/structure/2.0" mode="character">
   <ref href="Hiragana.crepdl"/>
   <ref href="Katakana.crepdl"/>
   <char>[a-zA-Z0-9]</char>

@@ -1,4 +1,4 @@
-<union xmlns="http://purl.oclc.org/dsdl/crepdl/ns/structure/2.0 mode="character"">
+<union xmlns="http://purl.oclc.org/dsdl/crepdl/ns/structure/2.0" mode="character">
   <!-- 次常用國字標準字體表 (6341字) -->
   <char>[万丌丏冇与丮丱丰乂乜亍亓亢亳亶亹仂仉仨仜仩仡仝伎优伬仵伔伋仱伀价佖伻佢]</char>
   <char>[佉体佤伾佈佧佒佚佟佁佘侘佼侅佽侀侇佶佴侉侑侄佷佌侗佪侚佹侁佸侐侜佺侔侞]</char>

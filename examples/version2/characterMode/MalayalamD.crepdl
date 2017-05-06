@@ -1,4 +1,4 @@
-<intersection  xmlns="http://purl.oclc.org/dsdl/crepdl/ns/structure/2.0 mode="character"">
+<intersection  xmlns="http://purl.oclc.org/dsdl/crepdl/ns/structure/2.0" mode="character">
   <union>
     <char><kernel>[&#x0D01;-&#x0D03;]</kernel></char>
     <char><kernel>[&#x0D05;-&#x0D0C;]</kernel></char>
