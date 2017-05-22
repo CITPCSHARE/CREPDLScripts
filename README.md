@@ -5,7 +5,7 @@ Scripts in ISO/IEC 19757-7 (CREPDL)
 
 This is a collection of CREPDL scripts for validating grapheme clusters.
 
-This is not a validator of CREPDL.  See another repository "CREPDL" for an F# implementation of CREPDL.
+This is not a validator of CREPDL.  See another repository [CREPDL](https://github.com/CITPCSHARE/CREPDL) for an F# implementation of CREPDL.
 
 ## Branches
 
