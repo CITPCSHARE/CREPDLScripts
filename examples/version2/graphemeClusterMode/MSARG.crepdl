@@ -1,4 +1,4 @@
-<gc xmlns="http://purl.oclc.org/dsdl/crepdl/ns/structure/2.0" mode="graphemeCluster">
+<char xmlns="http://purl.oclc.org/dsdl/crepdl/ns/structure/2.0" mode="graphemeCluster">
 (&#x36C7;&#xE0100;)|
 (&#x36C7;&#xE0101;)|
 (&#x36C7;&#xE0102;)|
@@ -20,4 +20,4 @@
 (&#x20C98;&#xE0101;)|
 (&#x21A74;&#xE0100;)|
 (&#x21A74;&#xE0101;)
-</gc>
+</char>
